@@ -7,7 +7,6 @@ function Page() {
   return (
 	<>
 		<Header/>
-		<Grid/>
 		<Footer/>
 	</>
   )
